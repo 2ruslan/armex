@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!-- max cnt -->
+    <LinearLayout
+        android:id="@+id/pre_max_cnt"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_vertical_margin"
+            android:text="@string/msg_sel_max_cnt" />
+    </LinearLayout>
+    <!-- pyramid -->
+    <LinearLayout
+        android:id="@+id/pre_pyramid"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_vertical_margin"
+            android:text="@string/msg_sel_pyramid" />
+    </LinearLayout>
+    <!-- grip -->
+    <LinearLayout
+        android:id="@+id/pre_grip"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_vertical_margin"
+            android:text="@string/msg_sel_grip" />
+
+        <EditText
+            android:id="@+id/ed_week_cnt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:inputType="number"
+            android:textColor="#EC0434"
+            android:textSize="48sp" />
+    </LinearLayout>
+    <!-- max set -->
+    <LinearLayout
+        android:id="@+id/pre_max_set"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/pre_max_set_info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_vertical_margin"
+            android:text="@string/msg_sel_max_set" />
+    </LinearLayout>
+    <!-- hard day -->
+    <LinearLayout
+        android:id="@+id/pre_hard"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_vertical_margin"
+            android:text="@string/msg_sel_hard_day" />
+
+        <RadioGroup
+            android:id="@+id/radioGroup12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RadioButton
+                android:id="@+id/rb_max_cnt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:button="@null"
+                android:drawableLeft="@android:drawable/btn_radio"
+                android:text="@string/title_day_type_max_count" />
+
+            <RadioButton
+                android:id="@+id/rb_pyramid"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:button="@null"
+                android:drawableLeft="@android:drawable/btn_radio"
+                android:text="@string/title_day_type_pyramid" />
+
+            <RadioButton
+                android:id="@+id/rb_grip"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:button="@null"
+                android:drawableLeft="@android:drawable/btn_radio"
+                android:text="@string/title_day_type_grip" />
+
+            <RadioButton
+                android:id="@+id/rb_max_sets"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:button="@null"
+                android:drawableLeft="@android:drawable/btn_radio"
+                android:text="@string/title_day_type_max_sets" />
+        </RadioGroup>
+
+    </LinearLayout>
+
+</FrameLayout>

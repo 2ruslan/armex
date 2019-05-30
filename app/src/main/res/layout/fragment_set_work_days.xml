@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/msg_sel_work_days"
+            />
+
+        <RadioGroup
+            android:id="@+id/radioGroup1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <RadioButton
+                android:id="@+id/rb_d0"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:button="@null"
+                android:drawableLeft="@android:drawable/btn_radio"
+                android:text="@string/title_set_wds_monday"
+                />
+
+            <RadioButton
+                android:id="@+id/rb_d1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:button="@null"
+                android:drawableLeft="@android:drawable/btn_radio"
+                android:text="@string/title_set_wds_tuesday"
+                />
+
+            <RadioButton
+                android:id="@+id/rb_d2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:button="@null"
+                android:drawableLeft="@android:drawable/btn_radio"
+                android:text="@string/title_set_wds_wednesday"
+                />
+
+            <RadioButton
+                android:id="@+id/rb_d3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:button="@null"
+                android:drawableLeft="@android:drawable/btn_radio"
+                android:text="@string/title_set_wds_thursday"
+                />
+
+            <RadioButton
+                android:id="@+id/rb_d4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:button="@null"
+                android:drawableLeft="@android:drawable/btn_radio"
+                android:text="@string/title_set_wds_friday"
+                />
+
+            <RadioButton
+                android:id="@+id/rb_d5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:button="@null"
+                android:drawableLeft="@android:drawable/btn_radio"
+                android:text="@string/title_set_wds_saturday"
+                />
+
+            <RadioButton
+                android:id="@+id/rb_d6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:button="@null"
+                android:drawableLeft="@android:drawable/btn_radio"
+                android:text="@string/title_set_wds_sunday"
+                />
+
+        </RadioGroup>
+
+    </LinearLayout>
+
+</FrameLayout>

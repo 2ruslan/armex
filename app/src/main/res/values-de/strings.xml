@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ArmEx</string>
+
+    <string name="msg_estim">Wenn dir das Programm gefällt bewerte es und schreib deine eigene Bewertung.</string>
+    <string name="msg_pay">Gefällts dir? - Unterstütze den Entwickler und kaufe die Vollversion!</string>
+    <string name="msg_sel_grip">Heute\n3 Sets normaler Griff\n3 Sets enger umgedrehter Griff\n3 Sets weiter Griff\nJedes Set sollte die gleiche Anzahl an Wiederholungen haben.\nEs empfiehlt sich __ Widerholungen zu machen.\nWenn du denkst du schaffst mehr( oder weniger), verändere diese Anzahl.</string>
+    <string name="msg_sel_hard_day">Heute ist der letzte Tag des 5-Tages Zyklus, wiederhole den schwierigsten der vier vorherigen Tage.</string>
+    <string name="msg_sel_max_cnt">Heute machst du 5 Sets; jedes mit max Anzahl. Bis zum Versagen.</string>
+    <string name="msg_sel_max_set">Heute machst du eine maximale Anzahl an Sets.</string>
+    <string name="msg_sel_pyramid">Das Training heute ist eine Pyramide. Mache Sets mit 1, 2, 3, usw. Wiederholungen bis du das nächste Set nicht mehr schaffst. Daraufhin erhole dich 1 Minute und mache 1 Max Anzahl Set.</string>
+    <string name="msg_sel_work_days">Wähle deine Trainingstage.</string>
+    <string name="msg_site_info">Mehr Informationen über das Armstron Workout\n<a href="http://armstrongpullupprogram.com\">ArmstrongPullUpProgram.com</a></string>
+    <string name="msg_translate_info">Willst du bei der Übersetzung helfen? - Schreibe an \n<a href="a.rock.developer@gmail.com\">a.rock.developer@gmail.com</a></string>
+
+    <string name="msg_translate_th_info_2"><a href="http://armstrongpullupprogram.com">Patrick Weeks</a> (English)</string>
+    <string name="msg_translate_th_info_3"><a href="http://armstrongpullupprogram.com">Danny Smit</a> (Dutch)</string>
+    <string name="msg_translate_th_info_5"><a href="http://armstrong-power.blogspot.com/2011/12/cel-20-podciagniec.html">Michał `Levy` Babiński</a> (Polish)</string>
+    <string name="msg_translate_th_info_4"><a href="http://armstrongpullupprogram.com">Théo Coutet</a> (Françai)</string>
+    <string name="msg_translate_th_info_1"><a href="http://armstrongpullupprogram.com">Ehrmann Nils</a>(German)</string>
+
+    <string name="msg_translate_th_info">Danke für die Übersetzung:</string>
+    <string name="post_msg1">Tagesresultate</string>
+    <string name="post_msg2">Armstrongs Trainingssystem</string>
+    <string name="post_on">Teilen</string>
+    <string name="title_backup_error">Backup fehlgeschlagen</string>
+    <string name="title_backup_ok">Backup erfolgreich</string>
+    <string name="title_cancel">Abbrechen</string>
+    <string name="title_chart_grip">Grip (Anzahl pro Woche)</string>
+    <string name="title_chart_max">Max</string>
+    <string name="title_chart_max_cnt">Max Anzahl</string>
+    <string name="title_chart_max_sets">Max Sets (Anzahl pro Woche)</string>
+    <string name="title_chart_pyramid">Pyramide (Anzahl pro Woche)</string>
+    <string name="title_chart_week_total">Wochensumme</string>
+    <string name="title_close">Schließen</string>
+    <string name="title_day_finish_msg">Das Training ist vorbei. \nVor deiner nächsten Session musst du morgens drei max Sets an Liegestützen machen.\nDie Liegestütze sollten mindestens 3 Stunden vor den Klimmzügen stattfinden.</string>
+    <string name="title_day_free_msg">Heute ist dein Pausetag.\nRuhe dich aus und sammel Kraft für das nächste Training!</string>
+    <string name="title_day_type_grip">Griff</string>
+    <string name="title_day_type_max_count">Max Anzahl</string>
+    <string name="title_day_type_max_sets">Max Sets</string>
+    <string name="title_day_type_pyramid">Pyramide</string>
+    <string name="title_dialog_info">Info</string>
+    <string name="title_done">Fertig\nWeiter</string>
+    <string name="title_estim">Bewertung</string>
+    <string name="title_exit_no_save">Beenden</string>
+    <string name="title_exit_save">Fertig\nBeenden</string>
+    <string name="title_info">Info</string>
+    <string name="title_later">Später</string>
+    <string name="title_main_msg_stat">Nach %1$d Wochen training hast du %2$d Klimmzüge zu deinem originalen Max von %3$d hinzugefügt, zu einem neuen Max von %4$d!</string>
+    <string name="title_main_msg_stat_first">Durch hartes Training wirst du gute Resultate sehen. Sei nicht enttäuscht wenn du in den ersten Wochen keinen großen Fortschritt siehst, das ist normal. Trainiere konsequent für einen Monat damit du einen bedeutenden Fortschritt siehst. Viel Erfolg!</string>
+    <string name="title_menu_backup">Backup</string>
+    <string name="title_menu_info">Info</string>
+    <string name="title_menu_restore">Wiederherstellen</string>
+    <string name="title_menu_restore_free">Restore from free</string>
+    <string name="title_menu_work_buy">Kaufen</string>
+    <string name="title_menu_work_days">Trainingstage</string>
+    <string name="title_menu_work_estim">Estim</string>
+    <string name="title_msg_quest">Bist du dir sicher?</string>
+    <string name="title_noShowEstim">Nie</string>
+    <string name="title_ok">Ok</string>
+    <string name="title_pay">Kaufen</string>
+    <string name="title_restore_error">Widerherstellung fehlgeschlagen</string>
+    <string name="title_restore_ok">Wiederherstellung erfolgreich</string>
+    <string name="title_set_wds_friday">Freitag-Dienstag</string>
+    <string name="title_set_wds_monday">Montag-Freitag</string>
+    <string name="title_set_wds_saturday">Samstag-Mittwoch</string>
+    <string name="title_set_wds_sunday">Sonntag-Donnerstag</string>
+    <string name="title_set_wds_thursday">Donnerstag-Montag</string>
+    <string name="title_set_wds_tuesday">Dienstag-Samstag</string>
+    <string name="title_set_wds_wednesday">Mittwoch-Sonntag</string>
+    <string name="title_start">Start</string>
+    <string name="title_statistics">Statistik</string>
+    <string name="toast_nput_cnt">Gib die korrekte Anzsahl ein</string>
+
+    <!-- идентификаторы рекламы-->
+    <string name="banner_ad_statistics">ca-app-pub-8661051886416365/7105269736</string>
+    <string name="banner_ad_end">ca-app-pub-8661051886416365/9184105339</string>
+
+</resources>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ArmEx</string>
+    <string name="msg_estim">Si vous aimez le programme, notez et écrivez votre propre critique.</string>
+    <string name="msg_pay">Vous aimez ? Aider les développeurs et acheter la version complète !</string>
+    <string name="msg_sel_grip">Aujourd\'hui nous faisons\n3 série en prise normal,\n3 série en prise serré inversé,\n3 série en prise large\nChaque série doit avoir le même nombre de répétition.\nIl est conseillé de faire __ répétitions.\nSi vous penser que vous faites plus (ou moins), modifier ce nombre.</string>
+    <string name="msg_sel_hard_day">Aujourd\'hui est le dernier jour du cycle de 5 jours, répéter le plus dur des 4 autres jours.</string>
+    <string name="msg_sel_max_cnt">Aujourd\'hui vous devez faire 5 série; donner votre max à chaque série. Aller à l\'échec.</string>
+    <string name="msg_sel_max_set">Aujourd\'hui, nous faisons le nombre maximum de séries.</string>
+    <string name="msg_sel_pyramid">Le travail d\'aujourd\'hui est une pyramide. Faites des séries de 1,2,3 et ainsi de suite jusqu\'à ce que vous échouiez dans une série. Ensuite reposez-vous 1 minute et faites votre maximum dans une dernière série.</string>
+    <string name="msg_sel_work_days">Choisissez les jours où vous ferez vos exercices</string>
+    <string name="msg_site_info">Plus d\'informations sur le programme Armstrong\n<a href="http://armstrongpullupprogram.com">ArmstrongPullUpProgram.com</a></string>
+
+
+    <string name="msg_translate_info">Vous voulez aider à la traduction ? Ecrivez  \n<a href="a.rock.developer@gmail.com">a.rock.developer@gmail.com</a></string>
+    <string name="msg_translate_th_info">Merci pour la traduction :</string>
+
+    <string name="msg_translate_th_info_1"><a href="http://armstrongpullupprogram.com">Théo Coutet</a> (Françai)</string>
+    <string name="msg_translate_th_info_2"><a href="http://armstrongpullupprogram.com">Patrick Weeks</a> (English)</string>
+    <string name="msg_translate_th_info_3"><a href="http://armstrongpullupprogram.com">Danny Smit</a> (Dutch)</string>
+    <string name="msg_translate_th_info_4"><a href="http://armstrong-power.blogspot.com/2011/12/cel-20-podciagniec.html">Michał `Levy` Babiński</a> (Polish)</string>
+    <string name="msg_translate_th_info_5"><a href="http://armstrongpullupprogram.com">Ehrmann Nils</a>(German)</string>
+
+    <string name="post_msg1">Mes résultats aujourd\'hui</string>
+    <string name="post_msg2">Système d\'entraînement Armstrong</string>
+    <string name="post_on">Publier sur</string>
+    <string name="title_backup_error">Erreur sauvegarde</string>
+    <string name="title_backup_ok">Restauration réussi</string>
+    <string name="title_cancel">Retour</string>
+    <string name="title_chart_grip">Saisie (total de la semaine)</string>
+    <string name="title_chart_max">Max</string>
+    <string name="title_chart_max_cnt">Nombre maximal</string>
+    <string name="title_chart_max_sets">Max de séries (total de la semaine)</string>
+    <string name="title_chart_pyramid">Pyramide (total de la semaine)</string>
+    <string name="title_chart_week_total">Total de la semaine</string>
+    <string name="title_close">Fermez</string>
+    <string name="title_day_finish_msg">L\'entraînement est terminé.\nAvant la prochaine séance, dans la matinée vous devez faire 3 séries de votre max de pompes. Les pompes doivent être complété au moins 3 heures avant les tractions !</string>
+    <string name="title_day_free_msg">Aujourd\'hui est votre jours de repos.\nReposer vous pour rassembler de la force pour votre prochain entrapinement.</string>
+    <string name="title_day_type_grip">Saisie</string>
+    <string name="title_day_type_max_count">Comptage max</string>
+    <string name="title_day_type_max_sets">Max de séries</string>
+    <string name="title_day_type_pyramid">Pyramide</string>
+    <string name="title_dialog_info">Information</string>
+    <string name="title_done">Terminé,\nSuivant</string>
+    <string name="title_estim">Notez</string>
+    <string name="title_exit_no_save">Fin</string>
+    <string name="title_exit_save">Terminé\nFin</string>
+    <string name="title_info">Information</string>
+    <string name="title_later">Dernier</string>
+    <string name="title_main_msg_stat">Après %1$d semaines d\'entraînement, vous avez ajouté %2$d tractions à votre max de départ de %3$d, pour un max de %4$d!</string>
+    <string name="title_main_msg_stat_first">Avec un dur entraînement, vous verrez de bon résultats, Ne soyez pas frustrez si vous ne voyez pas de progrès significatif dans votre première semaine. C\'est normal. Entraînez vous régulièrement pendant un mois et vous verrez des progrès significatif. Bonne chance ! </string>
+    <string name="title_menu_backup">Sauvegardez</string>
+    <string name="title_menu_info">Informations</string>
+    <string name="title_menu_restore">Restaurer</string>
+    <string name="title_menu_restore_free">Restaurer gratuitement</string>
+    <string name="title_menu_work_buy">Achetez</string>
+    <string name="title_menu_work_days">Jours de travail</string>
+    <string name="title_menu_work_estim">Estimation</string>
+    <string name="title_msg_quest">Êtes vous sur ?</string>
+    <string name="title_noShowEstim">Jamais</string>
+    <string name="title_ok">Ok</string>
+    <string name="title_pay">Achetez</string>
+    <string name="title_restore_error">Erreur restauration</string>
+    <string name="title_restore_ok">Restauration réussi</string>
+    <string name="title_set_wds_friday">Vendredi-Mardi</string>
+    <string name="title_set_wds_monday">Lundi-Vendredi</string>
+    <string name="title_set_wds_saturday">Samedi-Mercredi</string>
+    <string name="title_set_wds_sunday">Dimanche-Jeudi</string>
+    <string name="title_set_wds_thursday">Jeudi-Lundi</string>
+    <string name="title_set_wds_tuesday">Mardi-Samedi</string>
+    <string name="title_set_wds_wednesday">Mercredi-Dimanche</string>
+    <string name="title_start">Commencer</string>
+    <string name="title_statistics">Statistiques</string>
+    <string name="toast_nput_cnt">Entrez le nombre correct</string>
+
+    <!-- идентификаторы рекламы-->
+    <string name="banner_ad_statistics">ca-app-pub-8661051886416365/7105269736</string>
+    <string name="banner_ad_end">ca-app-pub-8661051886416365/9184105339</string>
+
+</resources>

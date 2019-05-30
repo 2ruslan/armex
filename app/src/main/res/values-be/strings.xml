@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">ArmEx</string>
+    <string name="title_start">Пачаць</string>
+    <string name="title_statistics">Статыстыка</string>
+    <string name="title_main_msg_stat"><![CDATA["За %1$d тыдняў трэніровак ты падцягваюцца на %2$d разоў больш, чым у пачатку, цяпер %3$d разоў, а ў пачатку %4$d."]]></string>
+    <string name="title_main_msg_stat_first"><![CDATA["Цябе чакаюць цяжкія трэніроўкі і добры вынік. Першыя тыдні колькасць падцягванняў можа стаць менш, гэта нармальна, працягвай трэніравацца і праз месяц ўбачыш вынік! Ўдачы!"]]></string>
+
+    <string name="title_menu_work_days">Дні трэніровак</string>
+    <string name="title_menu_work_buy">Купіць</string>
+    <string name="title_menu_work_estim">Ацаніць</string>
+    <string name="title_menu_info">Інфармацыя</string>
+
+    <string name="title_ok">Ok</string>
+    <string name="title_cancel">Адмена</string>
+    <string name="title_close">Зачыніць</string>
+    <string name="title_info">Інфармацыя</string>
+
+    <string name="title_dialog_info">Інфармацыя</string>
+
+    <string name="title_done">Гатова,\nдалей</string>
+    <string name="title_exit_save">Гатова,\nзавяршыць</string>
+    <string name="title_exit_no_save">Завяршыць</string>
+    <string name="toast_nput_cnt">Увядзі правільнае колькасць!</string>
+
+    <string name="title_day_free_msg">Сёння выхадны.\nАдпачывай і набірайся сіл для наступных трэніровак!</string>
+    <string name="title_day_finish_msg">Трэніроўка скончана.\nПерад наступным заняткам раніцай зрабі тры падыходы адцісканняў ад падлогі на максімум. \ NОтжиматься варта мінімум за 3 гадзіны да падцягванняў!</string>
+
+    <string name="msg_sel_hard_day">Сёння апошні дзень 5 дзённага цыклу, трэба паўтарыць самы цяжкі дзень з папярэдніх чатырох.</string>
+    <string name="title_day_type_max_count">Максімум паўтораў</string>
+    <string name="title_day_type_max_sets">Максімум падыходаў</string>
+    <string name="title_day_type_pyramid">Піраміда</string>
+    <string name="title_day_type_grip">3 розных зуха</string>
+
+    <string name="msg_sel_max_cnt">Сёння трэба зрабіць 5 падыходаў, у кожным варта падцягнуцца столькі колькі зможаш, на максімум.</string>
+    <string name="msg_sel_pyramid">Сёння робім лесвічку. Падцягвацца 1,2,3 і гэтак далей пакуль хопіць сіл.</string>
+    <string name="msg_sel_grip">Сёння робім \n3 падыходу нармальным прамым хватам, \n3 падыходу вузкім зваротным хватам, \n3 падыходу шырокім прамым хватам\nў кожным падыходзе трэба зрабіць аднолькавая колькасць паўтораў. Рэкамендуецца зрабіць указаннем ніжэй колькасць паўтораў. Калі лічыш што можаце больш (або менш) папраў гэтую лічбу.</string>
+    <string name="msg_sel_max_set">Сёння робім максімальную колькасць падыходаў.</string>
+
+    <string name="msg_sel_work_days">Выберы дні ў якія будзеш трэніравацца</string>
+    <string name="title_set_wds_monday">Панядзелак-пятніца</string>
+    <string name="title_set_wds_tuesday">Аўторак-Субота</string>
+    <string name="title_set_wds_wednesday">Сераду-нядзелю</string>
+    <string name="title_set_wds_thursday">Чацвер-Поенедельник</string>
+    <string name="title_set_wds_friday">Пятніца-аўторак</string>
+    <string name="title_set_wds_saturday">Субота-сераду</string>
+    <string name="title_set_wds_sunday">Нядзеля-чацвер</string>
+
+    <string name="msg_pay">Падабаецца праграма? - Падтрымаем распрацоўніка, купі поўную версію!</string>
+    <string name="title_pay">Купіць</string>
+
+    <string name="msg_estim">Калі табе падабаецца праграма пастаў ацэнку, і напішы свой водгук.</string>
+    <string name="title_noShowEstim">Ніколі</string>
+    <string name="title_estim">Ацаніць</string>
+    <string name="title_later">Пазней</string>
+
+    <string name="title_chart_max">Максімум</string>
+    <string name="title_chart_week_total">Усяго за тыдзень (сума)</string>
+    <string name="title_chart_pyramid">Піраміда (сума за тыдзень)</string>
+    <string name="title_chart_max_cnt">Максімальнае ко-ць</string>
+    <string name="title_chart_max_sets">Максімум падыходаў (сума за тыдзень)</string>
+    <string name="title_chart_grip">Змена зуха (сума за тыдзень)</string>
+
+    <string name="title_menu_backup">Зрабіць бэкап</string>
+    <string name="title_menu_restore">Аднавіць з бэкапу</string>
+    <string name="title_menu_restore_free">Аднавіць з бэкапу (free)</string>
+    <string name="title_backup_ok">Бэекап зроблены</string>
+    <string name="title_backup_error">Памылка стварэння бэкапу</string>
+    <string name="title_restore_ok">Аднаўленне з бэкапу зроблена</string>
+    <string name="title_restore_error">Памылка аднаўленне з бэкапу</string>
+    <string name="title_msg_quest">Вы ўпэўненыя?</string>
+
+    <string name="msg_site_info">Больш інфармацыі аб сістэме\n<a href="http://armstrongpullupprogram.com">ArmstrongPullUpProgram.com</a></string>
+    <string name="msg_translate_info">Хочаш дапамагчы з перакладам? - Пішы\n<a href="a.rock.developer@gmail.com">a.rock.developer@gmail.com</a></string>
+    <string name="msg_translate_th_info">Дзякуй за пераклад:</string>
+    <string name="msg_translate_th_info_1"><a href="http://armstrongpullupprogram.com">Patrick Weeks</a> (English)</string>
+    <string name="msg_translate_th_info_3"><a href="http://armstrongpullupprogram.com">Danny Smit</a> (Dutch)</string>
+    <string name="msg_translate_th_info_2"><a href="http://armstrong-power.blogspot.com/2011/12/cel-20-podciagniec.html">Michał `Levy` Babiński</a> (Polish)</string>
+    <string name="msg_translate_th_info_4"><a href="http://armstrongpullupprogram.com">Théo Coutet</a> (Françai)</string>
+    <string name="msg_translate_th_info_5"><a href="http://armstrongpullupprogram.com">Ehrmann Nils</a>(German)</string>
+
+    <!-- поделится -->
+    <string name="post_on">Post on</string>
+    <string name="post_msg1">Today my results</string>
+    <string name="post_msg2">Armstrong\'s training system</string>
+
+    <!-- идентификаторы рекламы-->
+    <string name="banner_ad_statistics">ca-app-pub-8661051886416365/7105269736</string>
+    <string name="banner_ad_end">ca-app-pub-8661051886416365/9184105339</string>
+</resources>

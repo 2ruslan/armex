@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ArmEx</string>
+
+    <string name="title_start">Comenzar</string>
+    <string name="title_statistics">Estadísticas</string>
+    <string name="title_main_msg_stat"><![CDATA["Dentro de %1$d semanas de entrenamiento hacer tirar %2$d veces mayor que en el principio, ahora de %3$d años, y %4$d por el principio."]]></string>
+    <string name="title_main_msg_stat_first"><![CDATA["Encontrarás duro entrenamiento y buenos resultados. La primera semana de la cantidad de pull-ups puede llegar a ser más pequeño, es normal, continúe para entrenar y en un mes usted verá los resultados! ¡Buena suerte!"]]></string>
+
+    <string name="title_menu_work_days">Días de entrenamiento</string>
+    <string name="title_menu_work_buy">Compra</string>
+    <string name="title_menu_work_estim">Estimación</string>
+    <string name="title_menu_info">Información</string>
+
+    <string name="title_ok">Ok</string>
+    <string name="title_cancel">Cancelación</string>
+    <string name="title_close">Cerrar</string>
+    <string name="title_info">Información</string>
+
+    <string name="title_dialog_info">Información</string>
+
+    <string name="title_done">Termine\ndentro</string>
+    <string name="title_exit_save">Finalizar para\ncompletar la</string>
+    <string name="title_exit_no_save">Completo</string>
+    <string name="toast_nput_cnt">Ingrese el número correcto!</string>
+
+    <string name="title_day_free_msg">Hoy es un día de fiesta.\nDescansar y tomar fuerzas para el siguiente entrenamiento!</string>
+    <string name="title_day_finish_msg">Formación ha terminado.\nAntes de la próxima clase de la mañana hacer tres series de flexiones desde el suelo hasta el máximo. \ NOtzhimatsya debe ser de al menos 3 horas antes de pull-ups!</string>
+
+    <string name="msg_sel_hard_day">Hoy es el último día del ciclo de 5 días, es necesario repetir el más difícil de los cuatro días anterior.</string>
+    <string name="title_day_type_max_count">Iteraciones máximas</string>
+    <string name="title_day_type_max_sets">Enfoques máximo</string>
+    <string name="title_day_type_pyramid">Pirámide</string>
+    <string name="title_day_type_grip">3 agarre diferente</string>
+
+    <string name="msg_sel_max_cnt">Hoy tenemos que hacer 5 juegos, cada uno debe apretarse tanto como sea posible, al máximo.</string>
+    <string name="msg_sel_pyramid">Hoy nosotros escalera. Aprieta 1,2,3 y así sucesivamente hasta suficientes fuerzas.</string>
+    <string name="msg_sel_grip">Hoy en día, hacer \n3 series de agarre recta normal \n3 series estrechan agarre inverso, \n3 series amplio agarre correcto\n en cada enfoque es necesario para hacer el mismo número de repeticiones. Se recomienda hacer una nota por debajo del número de repeticiones. Si usted piensa que usted puede más (o menos) para corregir esta cifra.</string>
+    <string name="msg_sel_max_set">Hoy hacemos el máximo número de enfoques.</string>
+
+    <string name="msg_sel_work_days">Seleccione los días que has de tren</string>
+    <string name="title_set_wds_monday">Lunes-Viernes</string>
+    <string name="title_set_wds_tuesday">Martes-Subota</string>
+    <string name="title_set_wds_wednesday">Miércoles a domingo</string>
+    <string name="title_set_wds_thursday">Jueves-Poenedelnik</string>
+    <string name="title_set_wds_friday">Viernes y martes</string>
+    <string name="title_set_wds_saturday">Subota-Medio Ambiente</string>
+    <string name="title_set_wds_sunday">De domingo a jueves</string>
+
+    <string name="msg_pay">¿Te gusta? - Apoyar el desarrollador y comprar la versión completa!</string>
+    <string name="title_pay">Compra</string>
+
+    <string name="msg_estim">Si te gusta el programa tarifas y escribir tu opinión.</string>
+    <string name="title_noShowEstim">Nunca</string>
+    <string name="title_estim">Estimación</string>
+    <string name="title_later">Luego</string>
+
+    <string name="title_chart_max">Lotes</string>
+    <string name="title_chart_week_total">Apenas una semana (cantidad)</string>
+    <string name="title_chart_pyramid">Pirámide (precio por semana)</string>
+    <string name="title_chart_max_cnt">Para un máximo de</string>
+    <string name="title_chart_max_sets">Enfoque máxima (la suma de la semana)</string>
+    <string name="title_chart_grip">Cambio de la empuñadura (la suma de la semana)</string>
+
+    <string name="title_menu_backup">Hacer una copia de seguridad</string>
+    <string name="title_menu_restore">Restaurar desde copia de seguridad</string>
+    <string name="title_menu_restore_free">Restaurar desde copia de seguridad (gratis)</string>
+    <string name="title_backup_ok">Beekap hizo</string>
+    <string name="title_backup_error">Error al crear la copia de seguridad</string>
+    <string name="title_restore_ok">Restauración a partir de una copia de seguridad se realiza</string>
+    <string name="title_restore_error">Recuperación de errores de copia de seguridad</string>
+    <string name="title_msg_quest">¿Seguro?</string>
+
+    <string name="msg_site_info">Más información sobre el sistema\n<a href="http://armstrongpullupprogram.com">ArmstrongPullUpProgram.com</a></string>
+    <string name="msg_translate_info">¿Quieres ayudar con la traducción? - Comentario\n<a href="a.rock.developer@gmail.com">a.rock.developer@gmail.com</a></string>
+    <string name="msg_translate_th_info">Gracias por la traducción:</string>
+    <string name="msg_translate_th_info_1"><a href="http://armstrongpullupprogram.com">Patrick Weeks</a> (English)</string>
+    <string name="msg_translate_th_info_2"><a href="http://armstrongpullupprogram.com">Danny Smit</a> (Dutch)</string>
+    <string name="msg_translate_th_info_3"><a href="http://armstrong-power.blogspot.com/2011/12/cel-20-podciagniec.html">Michał `Levy` Babiński</a> (Polish)</string>
+    <string name="msg_translate_th_info_4"><a href="http://armstrongpullupprogram.com">Théo Coutet</a> (Françai)</string>
+    <string name="msg_translate_th_info_5"><a href="http://armstrongpullupprogram.com">Ehrmann Nils</a>(German)</string>
+    <!-- поделится -->
+    <string name="post_on">Post on</string>
+    <string name="post_msg1">Today my results</string>
+    <string name="post_msg2">Armstrong\'s training system</string>
+
+
+    <!-- идентификаторы рекламы-->
+    <string name="banner_ad_statistics">ca-app-pub-8661051886416365/7105269736</string>
+    <string name="banner_ad_end">ca-app-pub-8661051886416365/9184105339</string>
+
+</resources>

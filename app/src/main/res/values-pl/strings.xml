@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ArmEx</string>
+    <string name="msg_estim">Jeżeli podoba Ci się ta aplikacja oceń ją i napisz swoją opinię na jej temat.</string>
+    <string name="msg_pay">Podoba Ci się ta aplikacja? Wesprzyj jej twórcę poprzez zakup pełnej wersji!</string>
+    <string name="msg_sel_grip">Dzisiaj masz do zrobienia:\n3 serie nachwytem z rękoma ustawionymi na szerokość barków,\n3 serie wąskim podchwytem,\n3 serie szerokim nachwytem.\nW każdej z serii powinieneś zrobić taką samą liczbę powtórzeń. Przy czym nie wolno Ci opuścić żadnej serii. Jeśli którejś z nich nie uda nam się wykonać do końca - nie przejmuj się, wykonuj kolejną serię, aż do uzyskania 9 serii.\nZalecane jest zrobienie __ powtórzeń. \nJeżeli uważasz, że jesteś w stanie zrobić większą (lub mniejszą) liczbę powtórzeń - wpisz tą liczbę poniżej.</string>
+    <string name="msg_sel_hard_day">Dzisiejszy dzień jest ostatnim dniem treningu w tym tygodniu. Powtórz najtrudniejszy trening z poprzednich dni.</string>
+    <string name="msg_sel_max_cnt">Dzisiaj musisz wykonać 5 serii, gdzie w każdej będziesz miał do zrobienia maksymalną liczę powtórzeń. Podciągnięcia wykonuj aż do upadku mięśniowego.</string>
+    <string name="msg_sel_max_set">Wykonaj tyle serii, ile jesteś w stanie zrobić.</string>
+    <string name="msg_sel_pyramid">Dzisiejszy trening polega na wykonaniu piramidki (narastającej ilości powtórzeń w każdej kolejnej serii: w 1 serii jedno podciągnięcie, w 2 serii dwa podciągnięcia itd.). Podciągaj się tak długo, aż nie wykonasz zakładanej ilości powtórzeń w danej serii. Po ostatniej, spalonej serii wykonuj jeszcze jedną serię na maksa do upadku mięśniowego, poprzedzając ją 60 sekundową przerwą.</string>
+    <string name="msg_sel_work_days">Wybierz swoje dni treningowe.</string>
+    <string name="msg_site_info">Więcej informacji o treningu Armstronga: <a href="http://armstrong-power.blogspot.com/2011/12/cel-20-podciagniec.html">ArmstrongPullUpProgram.com</a></string>
+    <string name="msg_translate_info">Chcesz pomóc w tłumaczeniu? Masz jakieś uwagi? Napisz na: <a href="a.rock.developer@gmail.com">a.rock.developer@gmail.com</a></string>
+
+    <string name="msg_translate_th_info_3"><a href="http://armstrongpullupprogram.com">Trening Armstronga</a> (ang.)</string>
+    <string name="msg_translate_th_info_2"><a href="http://armstrongpullupprogram.com">Danny Smit</a> (holenderski)</string>
+    <string name="msg_translate_th_info_1"><a href="http://armstrong-power.blogspot.com/2011/12/cel-20-podciagniec.html">Michał `Levy` Babiński</a> (polski)</string>
+    <string name="msg_translate_th_info_4"><a href="http://armstrongpullupprogram.com">Théo Coutet</a> (Françai)</string>
+    <string name="msg_translate_th_info_5"><a href="http://armstrongpullupprogram.com">Ehrmann Nils</a>(German)</string>
+
+    <string name="msg_translate_th_info">Podziękowania za tłumaczenie:</string>
+    <string name="post_msg1">Dzisiejsze wyniki</string>
+    <string name="post_msg2">Trening Armstronga</string>
+    <string name="post_on">Opublikuj</string>
+    <string name="title_backup_error">Błąd tworzenia kopii zapasowej</string>
+    <string name="title_backup_ok">Kopia zapasowa zakończona sukcesem</string>
+    <string name="title_cancel">Anuluj</string>
+    <string name="title_chart_grip">\"Chwyty\" (całkowita liczba powtórzeń w tygodniu)</string>
+    <string name="title_chart_max">max</string>
+    <string name="title_chart_max_cnt">Maksymalna liczba powtórzeń</string>
+    <string name="title_chart_max_sets">Maksymalna liczba serii (całkowita liczba powtórzeń w tygodniu)</string>
+    <string name="title_chart_pyramid">Piramidka (całkowita liczba powtórzeń w tygodniu)</string>
+    <string name="title_chart_week_total">Suma powtórzeń w tygodniu</string>
+    <string name="title_close">Zamknij</string>
+    <string name="title_day_finish_msg">Dzisiejszy trening zakończony.\nKolejny dzień, w którym będziesz wykonywał trening zacznij od 3 serii pompek do upadku mięśniowego. Nie wykonuj podciągnięć przez co najmniej 3 godziny od zakończenia serii pompek!</string>
+    <string name="title_day_free_msg">Dzisiaj masz wolne.\nOdpocznij i nabierz sił przed kolejnym treningiem!</string>
+    <string name="title_day_type_grip">\"Chwyty\"</string>
+    <string name="title_day_type_max_count">Maksymalna liczba powtórzeń</string>
+    <string name="title_day_type_max_sets">Maksymalna liczba serii</string>
+    <string name="title_day_type_pyramid">Piramidka</string>
+    <string name="title_dialog_info">Informacje</string>
+    <string name="title_done">Zakończ serię</string>
+    <string name="title_estim">Oceń</string>
+    <string name="title_exit_no_save">Zakończ trening (bez zapisywania)</string>
+    <string name="title_exit_save">Zakończ trening i zapisz rezultaty</string>
+    <string name="title_info">Informacje</string>
+    <string name="title_later">Później</string>
+    <string name="title_main_msg_stat">Po %1$d tygodniach treningu zwiększyłeś swoją liczbę powtórzeń z %3$d do %4$d. To o %2$d powtórzenia więcej!</string>
+    <string name="title_main_msg_stat_first">Systematyczny i metodyczny trening przyniesie rezultaty. Nie zniechęcaj się, jeżeli przez kilka pierwszych tygodni znaczący postęp nie będzie zauważalny. To normalne. Trenuj konsekwentnie przez miesiąc, a efekty będą widoczne. Powodzenia!</string>
+    <string name="title_menu_backup">Kopia zapasowa</string>
+    <string name="title_menu_info">Informacje</string>
+    <string name="title_menu_restore">Przywróć dane</string>
+    <string name="title_menu_restore_free">Przywracanie danych z wersji darmowej</string>
+    <string name="title_menu_work_buy">Kup pełną wersję</string>
+    <string name="title_menu_work_days">Dni treningowe</string>
+    <string name="title_menu_work_estim">Oceń aplikację</string>
+    <string name="title_msg_quest">Jesteś pewien?</string>
+    <string name="title_noShowEstim">Nigdy</string>
+    <string name="title_ok">Ok</string>
+    <string name="title_pay">Kup</string>
+    <string name="title_restore_error">Błąd przywracania danych</string>
+    <string name="title_restore_ok">Przywracanie danych zakończone sukcesem</string>
+    <string name="title_set_wds_friday">Piątek - wtorek</string>
+    <string name="title_set_wds_monday">Poniedziałek - piątek</string>
+    <string name="title_set_wds_saturday">Sobota - środa</string>
+    <string name="title_set_wds_sunday">Niedziela - czwartek</string>
+    <string name="title_set_wds_thursday">Czwartek - poniedziałek</string>
+    <string name="title_set_wds_tuesday">Wtorek - sobota</string>
+    <string name="title_set_wds_wednesday">Środa - niedziela</string>
+    <string name="title_start">Start</string>
+    <string name="title_statistics">Statystyki</string>
+    <string name="toast_nput_cnt">Wpisz właściwą liczbę powtórzeń</string>
+
+    <!-- идентификаторы рекламы-->
+    <string name="banner_ad_statistics">ca-app-pub-8661051886416365/7105269736</string>
+    <string name="banner_ad_end">ca-app-pub-8661051886416365/9184105339</string>
+
+</resources>

@@ -1,0 +1,44 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="kupchinskii.ruslan.armpullup.statistics">
+
+    <item
+        android:id="@+id/action_menu_work_days"
+        android:orderInCategory="100"
+        android:title="@string/title_menu_work_days"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_menu_backup"
+        android:orderInCategory="100"
+        android:title="@string/title_menu_backup"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_menu_restore"
+        android:orderInCategory="100"
+        android:title="@string/title_menu_restore"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_menu_restore_free"
+        android:orderInCategory="100"
+        android:title="@string/title_menu_restore_free"
+        app:showAsAction="never" />
+
+    <group>
+        <item
+            android:id="@+id/action_menu_estim"
+            android:orderInCategory="100"
+            android:title="@string/title_menu_work_estim"
+            android:visible="true"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/action_menu_buy"
+            android:orderInCategory="100"
+            android:title="@string/title_menu_work_buy"
+            android:visible="false"
+            app:showAsAction="never" />
+    </group>
+
+</menu>

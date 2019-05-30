@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">ArmEx</string>
+    <!-- стартовая страница -->
+    <string name="title_start">Начать</string>
+    <string name="title_statistics">Статистика</string>
+    <string name="title_main_msg_stat"><![CDATA["За %1$d недель тренировок ты подтягиваешься на %2$d раз больше, чем в начале, сейчас %3$d раз, а в начале %4$d."]]></string>
+    <string name="title_main_msg_stat_first"><![CDATA["Тебя ждут тяжелые тренировки и хороший результат. Первые недели количество подтягиваний может стать меньше, это нормально, продолжай тренироваться и через месяц увидишь результат! Удачи!"]]></string>
+
+    <!-- меню -->
+    <string name="title_menu_work_days">Дни тренировок</string>
+    <string name="title_menu_work_buy">Купить</string>
+    <string name="title_menu_work_estim">Оценить</string>
+    <string name="title_menu_info">Информация</string>
+
+    <!-- общие названия для кнопок -->
+    <string name="title_ok">Ok</string>
+    <string name="title_cancel">Отмена</string>
+    <string name="title_close">Закрыть</string>
+    <string name="title_info">Информация</string>
+
+    <!-- настройки - информация -->
+    <string name="title_dialog_info">Информация</string>
+
+    <!-- тренировка -->
+    <string name="title_done">Готово,\nдальше</string>
+    <string name="title_exit_save">Готово,\nзавершить</string>
+    <string name="title_exit_no_save">Завершить</string>
+    <string name="toast_nput_cnt">Введи правильное количество!</string>
+
+
+    <!-- сегодня выходной -->
+    <string name="title_day_free_msg">Сегодня выходной.\nОтдыхай и набирайся сил для следующих тренировок!</string>
+    <string name="title_day_finish_msg">Тренировка закончена.\nПеред следующим занятием утром сделай три подхода отжиманий от пола на максимум.\nОтжиматься следует минимум за 3 часа до подтягиваний!</string>
+
+    <!-- описание перед тренировками -->
+    <!--        выбор самого тяжолого дня -->
+    <string name="msg_sel_hard_day">Сегодня  последний день 5 дневного цикла, надо повторить самый тяжелый день из предыдущих четырех.</string>
+    <string name="title_day_type_max_count">Максимум повторений</string>
+    <string name="title_day_type_max_sets">Максимум подходов</string>
+    <string name="title_day_type_pyramid">Лесенка</string>
+    <string name="title_day_type_grip">3 разных хвата</string>
+    <!--        Максимальное количество -->
+    <string name="msg_sel_max_cnt">Сегодня надо сделать 5 подходов, в каждом следует подтянутся столько сколько сможешь, на максимум.</string>
+    <!--        Лесенка -->
+    <string name="msg_sel_pyramid">Сегодня делаем лесенку. Подтягиваемся 1,2,3 и так далее пока хватит сил.</string>
+    <!--        Три хвата -->
+    <string name="msg_sel_grip">Сегодня  делаем\n3 подхода нормальным прямым хватом,\n3 подхода узким обратным хватом,\n3 подхода широким прямым хватом\nв каждом подходе надо сделать одинаковое количество повторений.\nРекомендуется сделать указаное ниже количество повторений.\nЕсли считаешь что можете больше (или меньше) исправь эту цифру.</string>
+    <!--        Максимум подходов -->
+    <string name="msg_sel_max_set">Сегодня  делаем максимальное количество подходов.</string>
+
+
+    <!-- выбор дней тренировок -->
+    <string name="msg_sel_work_days">Выбери дни в которые будешь тренироваться</string>
+    <string name="title_set_wds_monday">Понедельник-Пятница</string>
+    <string name="title_set_wds_tuesday">Вторник-Суббота</string>
+    <string name="title_set_wds_wednesday">Среда-Воскресенье</string>
+    <string name="title_set_wds_thursday">Четверг-Понедельник</string>
+    <string name="title_set_wds_friday">Пятница-Вторник</string>
+    <string name="title_set_wds_saturday">Суббота-Среда</string>
+    <string name="title_set_wds_sunday">Воскресенье-Четверг</string>
+
+    <!-- просьба купить полную версию -->
+    <string name="msg_pay">Нравится программа?  - Поддержи разработчика,  купи полную версию!</string>
+    <string name="title_pay">Купить</string>
+
+    <!-- просьба оценить -->
+    <string name="msg_estim">Если тебе нравится программа поставь оценку, и напиши свой отзыв.</string>
+    <string name="title_noShowEstim">Никогда</string>
+    <string name="title_estim">Оценить</string>
+    <string name="title_later">Позже</string>
+
+    <!-- названия графиков -->
+    <string name="title_chart_max">Максимум</string>
+    <string name="title_chart_week_total">Всего за неделю(сумма)</string>
+    <string name="title_chart_pyramid">Лесенка(сумма за неделю)</string>
+    <string name="title_chart_max_cnt">Максимальное ко-во</string>
+    <string name="title_chart_max_sets">Максимум подходов(сумма за неделю)</string>
+    <string name="title_chart_grip">Смена хвата(сумма за неделю)</string>
+
+    <!-- data backup -->
+    <string name="title_menu_backup">Сделать бэкап</string>
+    <string name="title_menu_restore">Восстановить из бэкапа</string>
+    <string name="title_menu_restore_free">Восстановить из бэкапа(free)</string>
+    <string name="title_backup_ok">Бэекап сделан</string>
+    <string name="title_backup_error">Ошибка создания бэкапа</string>
+    <string name="title_restore_ok">Восстановление из бэкапа сделано</string>
+    <string name="title_restore_error">Ошибка восстановление из бэкапа</string>
+    <string name="title_msg_quest">Вы уверены?</string>
+
+    <!-- info -->
+    <string name="msg_site_info">Больше информации о системе\n<a href="sites.google.com/site/armstrongpullup">sites.google.com/site/armstrongpullup</a></string>
+    <string name="msg_translate_info">Хочешь помочь с переводом? - Пиши\n<a href="a.rock.developer@gmail.com">a.rock.developer@gmail.com</a></string>
+    <string name="msg_translate_th_info">Спасибо за перевод:</string>
+    <string name="msg_translate_th_info_1"><a href="http://armstrongpullupprogram.com">Patrick Weeks</a> (English)</string>
+    <string name="msg_translate_th_info_2"><a href="http://armstrongpullupprogram.com">Danny Smit</a> (Dutch)</string>
+    <string name="msg_translate_th_info_3"><a href="http://armstrong-power.blogspot.com/2011/12/cel-20-podciagniec.html">Michał `Levy` Babiński</a> (Polish)</string>
+    <string name="msg_translate_th_info_4"><a href="http://armstrongpullupprogram.com">Théo Coutet</a> (Françai)</string>
+    <string name="msg_translate_th_info_5"><a href="http://armstrongpullupprogram.com">Ehrmann Nils</a>(German)</string>
+
+    <!-- поделится -->
+    <string name="post_on">Поделится</string>
+    <string name="post_msg1">Сегодня мои результаты</string>
+    <string name="post_msg2">тренировок по системе Армстронга</string>
+
+    <!-- идентификаторы рекламы-->
+    <string name="banner_ad_statistics">ca-app-pub-8661051886416365/7105269736</string>
+    <string name="banner_ad_end">ca-app-pub-8661051886416365/9184105339</string>
+
+</resources>

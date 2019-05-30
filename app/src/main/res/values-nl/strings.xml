@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">ArmEx</string>
+    <!-- стартовая страница -->
+    <string name="title_start">Start</string>
+    <string name="title_statistics">Statistieken</string>
+
+    <string name="title_main_msg_stat"><![CDATA["Na %1$d weken training, ben je met %2$d pullups vooruit gegaan ten opzichte van jouw oorspronkelijke max %3$d, voor een nieuwe max van %4$d!"]]></string>
+    <string name="title_main_msg_stat_first"><![CDATA["Door hard te trainen zul je goede resultaten boeken. Raak niet gefrustreerd, wanneer je geen zichtbare vooruitgang boekt in de eerste paar weken. Dit is normaal. Train een maand lang consequent en je zult zichtbare vooruitgang boeken. Succes!"]]></string>
+
+    <!-- меню -->
+    <string name="title_menu_work_days">WerkDagen</string>
+    <string name="title_menu_work_buy">Kopen</string>
+    <string name="title_menu_work_estim">Schatting</string>
+    <string name="title_menu_info">Info</string>
+
+
+    <!-- общие названия для кнопок -->
+    <string name="title_ok">Ok</string>
+    <string name="title_cancel">Cancel</string>
+    <string name="title_close">Sluiten</string>
+    <string name="title_info">Informatie</string>
+
+    <!-- настройки - информация -->
+    <string name="title_dialog_info">Informatie</string>
+
+    <!-- тренировка -->
+    <string name="title_done">Done,\nVolgende</string>
+    <string name="title_exit_save">Done\nStoppen</string>
+    <string name="title_exit_no_save">Stoppen</string>
+    <string name="toast_nput_cnt">Vul het juiste aantal in</string>
+
+    <!-- сегодня выходной -->
+    <string name="title_day_free_msg">Vandaag is jouw rustdag.\nRust uit om fit aan je volgende training te beginnen.</string>
+    <string name="title_day_finish_msg">De training is voorbij.\nDoe voor je volgende sessie 3 sets push-ups met zoveel mogelijk herhalingen. De push-ups moeten ten minste 3 uur voor aanvang van de volgende pull-ups zijn gedaan.</string>
+
+    <!-- описание перед тренировками -->
+    <!--        выбор самого тяжолого дня -->
+    <string name="msg_sel_hard_day">Vandaag is de laatste dag van de 5-daagse cyclus, herhaal de zwaarste dag van de vorige 4 cycli.</string>
+    <string name="title_day_type_max_count">Maximum Aantal</string>
+    <string name="title_day_type_max_sets">Maximum aantal Sets</string>
+    <string name="title_day_type_pyramid">Pyramide</string>
+    <string name="title_day_type_grip">Grip</string>
+
+    <!--        Максимальное количество -->
+    <string name="msg_sel_max_cnt">Vandaag moet je 5 sets doen; elke set met een maximum aantal herhalingen. Ga door tot failure.</string>
+
+    <!--        Лесенка -->
+    <string name="msg_sel_pyramid">De training van vandaag is een pyramide. Doe sets van 1, 2, 3 enz. Totdat je de volgende set niet meer haalt. Rust dan 1 minuut en doe 1 set met het maximaal aantal herhalingen.</string>
+
+    <!--        Три хвата -->
+    <string name="msg_sel_grip">Vandaag doen we\n3 sets normale overhand grip,\n3 sets smalle reverse grip, \n3 sets wijde overhandse grip\nElke set moet bestaan uit het zelfde aantal herhalingen\nHet wordt aanbevolen om __ herhalingen te doen.\nAls je denkt dat je er meer kunt doen (of minder), vul dit aantal dan in.</string>
+
+    <!--        Максимум подходов -->
+    <string name="msg_sel_max_set">Vandaag doen we het maximaal aantal sets.</string>
+
+    <!-- выбор дней тренировок -->
+    <string name="msg_sel_work_days">Selecteer de dagen waarop je wilt trainen.</string>
+    <string name="title_set_wds_monday">Maandag-Vrijdag</string>
+    <string name="title_set_wds_tuesday">Dinsdag-Zaterdag</string>
+    <string name="title_set_wds_wednesday">Wednesday-Sunday</string>
+    <string name="title_set_wds_thursday">Donderdag-Maandag</string>
+    <string name="title_set_wds_friday">Friday-Tuesday</string>
+    <string name="title_set_wds_saturday">Zaterdag-Woensdag</string>
+    <string name="title_set_wds_sunday">Zondag-Donderdag</string>
+
+    <!-- просьба купить полную версию -->
+    <string name="msg_pay">Vind je de app leuk? – Steun de ontwikkelaar en koop de volledige versie!</string>
+    <string name="title_pay">Kopen</string>
+
+    <!-- просьба оценить -->
+    <string name="msg_estim">Als je de app leuk vindt, beoordeel deze dan en schrijf je eigen     review</string>
+    <string name="title_noShowEstim">Nooit</string>
+    <string name="title_estim">Beoordelen</string>
+    <string name="title_later">Later</string>
+
+
+    <!-- названия графиков -->
+    <string name="title_chart_max">Max</string>
+    <string name="title_chart_week_total">Totaal per week</string>
+    <string name="title_chart_pyramid">Pyramide (aantal per week)</string>
+    <string name="title_chart_max_cnt">Max Aantal</string>
+    <string name="title_chart_max_sets">Max aantal Sets (aantal per week)</string>
+    <string name="title_chart_grip">Grip (aantal per week)</string>
+
+    <!-- data backup -->
+    <string name="title_menu_backup">Backup</string>
+    <string name="title_menu_restore">Herstellen</string>
+    <string name="title_menu_restore_free">Gratis herstellen</string>
+    <string name="title_backup_ok">Backup geslaagd</string>
+    <string name="title_backup_error">Backup fout</string>
+    <string name="title_restore_ok">Herstellen succesvol</string>
+    <string name="title_restore_error">Fout bij herstellen</string>
+    <string name="title_msg_quest">Weet je het zeker?</string>
+
+    <!-- info -->
+    <string name="msg_site_info">Meer informative over Armstrong Workout\n<a href="http://armstrongpullupprogram.com">ArmstrongPullUpProgram.com</a></string>
+    <string name="msg_translate_info">Wil je helpen met vertalen? - Mail\n<a href="a.rock.developer@gmail.com">a.rock.developer@gmail.com</a></string>
+    <string name="msg_translate_th_info">Bedankt voor het vertalen:</string>
+    <string name="msg_translate_th_info_2"><a href="http://armstrongpullupprogram.com">Patrick Weeks</a> (English)</string>
+    <string name="msg_translate_th_info_1"><a href="http://armstrongpullupprogram.com">Danny Smit</a> (Dutch)</string>
+    <string name="msg_translate_th_info_3"><a href="http://armstrong-power.blogspot.com/2011/12/cel-20-podciagniec.html">Michał `Levy` Babiński</a> (Polish)</string>
+    <string name="msg_translate_th_info_4"><a href="http://armstrongpullupprogram.com">Théo Coutet</a> (Françai)</string>
+    <string name="msg_translate_th_info_5"><a href="http://armstrongpullupprogram.com">Ehrmann Nils</a>(German)</string>
+    <!-- поделится -->
+    <string name="post_on">Post op</string>
+    <string name="post_msg1">Mijn resultaten van vandaag</string>
+    <string name="post_msg2">Armstrong\'s training system</string>
+
+    <!-- идентификаторы рекламы-->
+    <string name="banner_ad_statistics">ca-app-pub-8661051886416365/7105269736</string>
+    <string name="banner_ad_end">ca-app-pub-8661051886416365/9184105339</string>
+
+</resources>
